@@ -95,7 +95,7 @@
              =================================================== --}}
       
             {{-- test link --}}
-            <a href="" class="btn btn-primary">TEST</a>
+            <a href="https://ocu-sense.ooguy.com/py" class="btn btn-primary">TEST</a>
     </div>
 @endsection
 @section('js')
